@@ -1,0 +1,16 @@
+.filter{
+    padding: 10px;  
+    font-family: 'Dokdo', cursive;
+    font-size: 1.2rem;
+}
+.filter select{
+    background-color: rgb(58, 57, 57);
+    color:white;
+    font-size: .9rem;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.filter select option{
+    font-weight: bold;
+}
