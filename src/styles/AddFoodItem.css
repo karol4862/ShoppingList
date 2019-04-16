@@ -4,10 +4,8 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(198, 78, 253);
-    font-family: 'Indie Flower', cursive;
-    font-weight: bold;
-    color:black;
+    background: linear-gradient(to bottom, #d61fee 0%,#931cc2 50%,#630e85 100%);
+    font-family: 'Arimo', cursive;
 }
 .header label{
     flex-basis: 20%;
@@ -15,7 +13,9 @@
     display: flex;
     font-size: 1.3rem;
     margin-bottom: 5px;
-}
+    color:rgb(0, 0, 0);
+    text-shadow: 0 0 1px black;
+} 
 .header label input, .header label select{
     font-size: .9rem;
     margin-left: 5px;
