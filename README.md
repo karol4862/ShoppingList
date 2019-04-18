@@ -1,7 +1,7 @@
 
 # Shopping list
 My next App based on React.
-Simple app do create your own shippping list.
+Simple app to create your own shiopping list.
 Text and amount are require, group is optional and using by filter to sort items.
 
 ## Demo 
